@@ -1,2 +1,1 @@
-eval(function(p,a,c,k,e,d){while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+c.toString(a)+'\\b','g'),k[c])}}return p}('$(".d-c .b-a").9();$(\'<8>\').7(".6-5 .4{3: 2;}").1("0");',14,14,'head|appendTo|29px|height|exclusivos|shelf__flags|j|text|style|empty|inline|list|tabs|shelf'.split('|')))
-
+eval(function(p,a,c,k,e,d){while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+c.toString(a)+'\\b','g'),k[c])}}return p}('$(".i-2 .3-4").5();$(\'<6>\').7(".8 1 .9-b .c .d.e-f{g: h;}").a("0");',19,19,'head|li|tabs|list|inline|empty|style|text|showcase|box|appendTo|item|flags|flag|mais|vendidos|height|19px|shelf'.split('|')))
